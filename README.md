@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 And mermaid-like a while they bore her up,
 Which time she chanted snatches of old lauds
